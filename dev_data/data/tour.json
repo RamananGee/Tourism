@@ -1,0 +1,337 @@
+[
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.1993, 12.6165],
+        "address": "Mahabalipuram, Tamil Nadu 603104, India"
+      },
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Shore Temple",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 10,
+      "summary": "The Shore Temple (built in 700–728 AD) is so named because it overlooks the shore of the Bay of Bengal. It is located near Chennai in Tamil Nadu.",
+      "description": "The Shore Temple is so named because it overlooks the shore of the Bay of Bengal. It is located near Chennai in Tamil Nadu. It is a structural temple, built with blocks of granite, dating from the 8th century AD. At the time of its creation, the site was a busy port during the reign of Narasimhavarman II of the Pallava dynasty. As one of the Group of Monuments at Mahabalipuram, it has been classified as a UNESCO World Heritage Site since 1984. It is one of the oldest structural stone temples of South India. Shore temple is a complex of temples and shrines.",
+      "imageCover": "tour-2-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2959",
+          "description": "Sea Shore Beach",
+          "type": "Point",
+          "coordinates": [-80.1993, 12.6165],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.189611, 12.608806],
+        "address": "Five Rathas, Mahabalipuram, Tamil Nadu 603104, India"
+      },
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2951",
+      "name": "Pancha Rathas",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 20,
+      "summary": "The Five Rathas, also known as Panch Rathas, is a exemplary set of rock temples.",
+      "description": "Pancha Rathas is a monument complex at Mahabalipuram, on the Coromandel Coast of the Bay of Bengal, in the Kancheepuram district of the state of Tamil Nadu, India. Pancha Rathas is an example of monolithic Indian rock-cut architecture. The complex was carved during the reign of King Narasimhavarman I: the idea of realising monolithic buildings, an innovation in Indian architecture, is attributed to this ruler. The complex is under the auspices of the Archaeological Survey of India and is part of the UNESCO World Heritage site inscribed by UNESCO as Group of Monuments at Mahabalipuram. ",
+      "imageCover": "tour-1-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2954",
+          "description": "Five Rathas",
+          "type": "Point",
+          "coordinates": [-80.189611, 12.608806],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.1927, 12.6178],
+        "address": "West Raja Street, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c295a",
+      "name": "Arjuna's Penance",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 20,
+      "summary": "Descent of the Ganges is a monument at Mamallapuram, on the Coromandel Coast of the Bay of Bengal.",
+      "description": "Descent of the Ganges is a monument at Mamallapuram, on the Coromandel Coast of the Bay of Bengal, in the Chengalpattu district of the state of Tamil Nadu, India. Measuring 96 by 43 feet, it is a giant open-air rock relief carved on two monolithic rock boulders. The legend depicted in the relief is the story of the descent of the sacred river Ganges to earth from the heavens led by Bhagiratha. The waters of the Ganges are believed to possess supernatural powers. The descent of the Ganges and Arjuna's Penance are portrayed in stone at the Pallava heritage site. The relief is more of a canvas of Indian rock cut sculpture at its best not seen anywhere in India. It is one of the Group of Monuments at Mamallapuram that were designated as a UNESCO World Heritage Site since 1984.",
+      "imageCover": "tour-3-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c295c",
+          "description": "Arjuna's Penance",
+          "type": "Point",
+          "coordinates": [-80.1927, 12.6178],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.1917, 12.6167],
+        "address": "Fisherman Colony, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Group of Monuments at Mahabalipuram",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 10,
+      "summary": "The Group of Monuments at Mamallapuram is a collection of 7th- and 8th-century CE religious monuments in the coastal resort town of Mamallapuram.",
+      "description": "The Group of Monuments at Mamallapuram is a collection of 7th- and 8th-century CE religious monuments in the coastal resort town of Mamallapuram, Tamil Nadu, India and a UNESCO World Heritage Site. It is on the Coromandel Coast of the Bay of Bengal, about 60 kilometres south of Chennai. The site has 40 ancient monuments and Hindu temples, including one of the largest open-air rock reliefs in the world: the Descent of the Ganges or Arjuna's Penance. The group contains several categories of monuments: ratha temples with monolithic processional chariots, built between 630 and 668; mandapa viharas with narratives from the Mahabharata and Shaivic, Shakti and Vaishna inscriptions in a number of Indian languages and scripts",
+      "imageCover": "tour-5-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2965",
+          "description": "Group of Monuments at Mahabalipuram",
+          "type": "Point",
+          "coordinates": [-80.1917, 12.6167],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.19889, 12.61750],
+        "address": "Mada Koil St, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Varaha Cave Temple",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 10,
+      "summary": "Varaha Cave Temple is a rock-cut cave temple located at Mamallapuram.",
+      "description": "Varaha Cave Temple is a rock-cut cave temple located at Mamallapuram, on the Coromandel Coast of the Bay of Bengal in Kancheepuram District in Tamil Nadu, India. It is part of the hill top village, which is 4 kilometres to the north of the main Mahabalipurm sites of rathas and the Shore Temple. It is an example of Indian rock-cut architecture dating from the late 7th century. The temple is one of the finest testimonial to the ancient Vishwakarma Sthapathis, of rock-cur cave architecture, out of many such caves also called mandapas.",
+      "imageCover": "tour-4-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2960",
+          "description": "Varaha Cave Temple",
+          "type": "Point",
+          "coordinates": [-80.19889, 12.61750],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.1927, 12.6178],
+        "address": " East Raja Street, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Krishna's Butterball",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 20,
+      "summary": "Krishna's Butterball is a gigantic granite boulder resting on a short incline in the historical coastal resort town of Mamallapuram.",
+      "description": "Krishna's Butterball is a gigantic granite boulder resting on a short incline in the historical coastal resort town of Mamallapuram in Tamil Nadu state of India. Since it is part of the Group of Monuments at Mamallapuram, a UNESCO World Heritage Site built during 7th- and 8th-century CE as Hindu religious monuments by the Pallava dynasty, it is a popular tourist attraction. It is listed as a protected national monument by the Archeological Survey of India. It is best viewed at sunrise from northwest to southeast or at sundown from northeast to southwest when the panorama is bathed in magical golden hues.",
+      "imageCover": "tour-6-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c296b",
+          "description": "Krishna's Butterball",
+          "type": "Point",
+          "coordinates": [-80.1927, 12.6178],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.199370, 12.616454],
+        "address": "Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2970",
+      "name": "Mahabalipuram Beach",
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 10,
+      "summary": "The beach lies on the shore of Bay of Bengal and comprises of some rock-cut sculptures which are pleasing to the eyes",
+      "description": "the Mahabalipuram Beach is situated at a distance of 58 km from the Chennai city in Tamil Nadu. The beach lies on the shore of Bay of Bengal and comprises of some rock-cut sculptures which are pleasing to the eyes. It is also famous for caves, massive rathas, chariots and temples which offer a great spot for holiday. The Mahabalipuram beach is a perfect place to relax and give yourself a break from the deadlines and work pressure on a daily basis. People from near and far flock to the beach especially to enjoy the natural sunbathing offered by the beach. The windsurfers and swimming lovers are bound to have an amazing time at the beach for they are seen doing just that on the shores of the beach.So as to attract tourists, the beach also has interesting places to offer including a crocodile bank with about 5000 crocodiles belonging to 6 different species, a school of art & sculpture and a snake venom extracting centre.",
+      "imageCover": "tour-8-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Mahabalipuram Beach",
+          "type": "Point",
+          "coordinates": [80.199370, 12.616454],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-79.66944, 10.99056],
+        "address": "S Mada St, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2974",
+      "name": "Sri Sthala Sayana Perumal Tirukovil",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 20,
+      "summary": "Sthalasayana Perumal Temple is at Mahabalipuram. Constructed in the Dravidian style of architecture.",
+      "description": "Sthalasayana Perumal Temple is at Mahabalipuram. Constructed in the Dravidian style of architecture, the temple is glorified in the Divya Prabandha, the early medieval Tamil canon of the Azhwar saints from the 6th–9th centuries AD. It is one of the 108 Divyadesam dedicated to Vishnu, who is worshipped as Sthalasayana Perumal and his consort Lakshmi as Nilamangai Thayar. The temple is believed to have been built by Pallavas, with later contributions from Medieval Cholas, Vijayanagar kings and Madurai Nayaks. The temple is believed to be the birthplace of the Vaishnava Azhwar saint Bhoothathalvar. Sthalasayana Perumal is believed to have appeared to sage Pundarika. The temple is open from 6 am to 12 pm and 3pm to 8:30 pm. Six daily rituals and a dozen yearly festivals are held at the temple, of which the Bhoothatazhwar Avata festival, celebrated during the Tamil month of Aipasi being the most prominent.",
+      "imageCover": "tour-9-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2975",
+          "description": "Sthala Sayana Perumal kovil",
+          "type": "Point",
+          "coordinates": [-79.66944, 10.99056],
+          "day": 1
+        }
+      ]
+    },
+    {
+      "startLocation": {
+        "description": "Mamallapuram, TamilNadu",
+        "type": "Point",
+        "coordinates": [-80.240107, 12.743875],
+        "address": "Post Bag No 4, Mahabalipuram, Tamil Nadu 603104"
+      },
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c296c",
+      "name": "Crocodile bank",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 200,
+      "summary": "This place sets a different ambience from all the beach activities and historical sightseeing places.",
+      "description": "This place sets a different ambience from all the beach activities and historical sightseeing places. An interesting thing about this Crocodile bank is that, the farm has variety of species of Indian and African alligators and crocodiles as well as Indian Gharial. This place is widely popular among families as you get to see and learn about the species inhabited here. The place offers a spectacular feel because the species are all kept in their natural habitat. Crocodile Farm also houses other species like snake and turtles.",
+      "imageCover": "tour-7-cover.jpg",
+      "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c296f",
+          "description": "Crocodile bank",
+          "type": "Point",
+          "coordinates": [-80.240107, 12.743875],
+          "day": 1
+        }
+      ]
+    }
+  ]

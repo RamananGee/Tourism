@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Shore Temple",
+    "duration": 2,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.3,
+    "ratingsQuantity": 37,
+    "price": 10,
+    "summary": "Shore Temple Lies in front of the Bay of Bengal",
+    "description": "The Shore Temple (built in 700–728 AD) is so named because it overlooks the shore of the Bay of Bengal. It is located near Chennai in Tamil Nadu .It is a structural temple built with blocks of granite dating from the 8th century AD. At the time of its creation, the site was a busy port during the reign of Narasimhavarman. II of the Pallava dynasty.[1] As one of the Group of Monuments at Mahabalipuram, it has been classified as a UNESCO World Heritage Site since 1984.[2] It is one of the oldest structural (versus rock-cut) stone temples of South India.",
+    "imageCover": "seashore.png",
+    "images": ["sea1.jpg", "sea2.jpg", "sea3.jpg"],
+    "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+  },
+  {
+    "id": 1,
+    "name": "Mahabalipuram Beach",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 23,
+    "price": 497,
+    "summary": "The beach lies on the shore of Bay of Bengal and comprises of some rock-cut sculptures which are pleasing to the eyes",
+    "description": "Also known as Mamallapuram by locals, the Mahabalipuram Beach is situated at a distance of 58 km from the Chennai city in Tamil Nadu. The beach lies on the shore of Bay of Bengal and comprises of some rock-cut sculptures which are pleasing to the eyes. It is also famous for caves, massive rathas, chariots and temples which offer a great spot for holiday. The Mahabalipuram beach is a perfect place to relax and give yourself a break from the deadlines and work pressure on a daily basis. People from near and far flock to the beach especially to enjoy the natural sunbathing offered by the beach. The windsurfers and swimming lovers are bound to have an amazing time at the beach for they are seen doing just that on the shores of the beach. ",
+    "imageCover": "beach.jpg",
+    "images": ["beach1.jpg", "beach2.jpg", "beach3.jpg"],
+    "startDates": ["2021-06-19,10:00", "2021-07-20,10:00", "2021-08-18,10:00"]
+  },
+  {
+    "id": 2,
+    "name": "Five Rathas",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 13,
+    "price": 997,
+    "summary": "The Five Rathas, also known as Panch Rathas, is a exemplary set of rock temples.",
+    "description": "These temples are built in the same shape as pagodas, and greatly resemble Buddhist shrines and monasteries. The rathas are associated with the great epic Mahabharata. The first ratha that is located right by the entrance gate is Draupadi's Ratha. It is shaped like a hut and is dedicated to the goddess Durga. Next comes Arjuna's Rath. This one has a small portico and carved pillar stones and is dedicated to Lord Shiva. There are no carvings inside this temple, but many are on the outside. Directly in front of Arjuna's Rath is the Nakula Sahadev Rath. This ratha has some huge elephant sculptures included that are a huge draw for the Five Rathas. It is dedicated to the God of Rain, Lord Indra. The Bhima Rath is huge. It measures 42 ft in length, 24ft in width, and 25ft in height. The pillars there do contain lion carvings even though the ratha as a whole is incomplete. The largest of the Five Rathas is the Dharamraja Yudhistar's Rath. ",
+    "imageCover": "rathas.jpg",
+    "images": ["rathas1.jpg", "rathas2.jpg", "rathas3.jpg"],
+    "startDates": ["2022-01-05,10:00", "2022-02-12,10:00", "2023-01-06,10:00"]
+  },
+  {
+    "id": 3,
+    "name": "Arjuna's Penance",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 54,
+    "price": 1197,
+    "summary": "The Arjuna's Penance is an enormous rock-cut relief, one of the largest in the whole world",
+    "description": "It is also known by the name 'Descent of the Ganges' because the structure depicts either or both of these two significant and symbolic events of Hindu mythology; thus making this attraction spot a favourite among historians, scholars, academics as well as tourists who are enthusiastic about the cultural past of India. Not just historically, the structure is a fine specimen of this unique form of art of carving and sculpting on rock forms, that has roots way back in the 7th century South India. Most of these rock forms, including Arjuna's Penance, owe its existence to the Pallava dynasty that ruled over the region south of Vindhyas from 4th to 9th century. ",
+    "imageCover": "arjun.jpg",
+    "images": ["arjun1.jpg", "arjun2.jpg", "arjun3.jpg"],
+    "startDates": ["2021-03-11,10:00", "2021-05-02,10:00", "2021-06-09,10:00"]
+  }
+]
